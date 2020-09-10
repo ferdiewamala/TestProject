@@ -11,8 +11,6 @@ import java.util.Scanner;
 
 public class ApiUtility {
     private static final String QUERY_PARAMETER_KEY = "api";
-//    private static final String KEY = "key";
-//    private static final String API_KEY = "AIzaSyA3n0cn9F3JrbXRgbiWKRwbFYQRa-DiEAc";
 
     private ApiUtility () {}
 
