@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="title_activity_leader_list">LeaderListActivity</string>
+    <string name="tab_text_1">Learning Leader</string>
+    <string name="tab_text_2">Skill IQ Leader</string>
+    <string name="submit_button">Submit</string>
+    <string name="leaderboard_name">LEADERBOARD</string>
+</resources>
